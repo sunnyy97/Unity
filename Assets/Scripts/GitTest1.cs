@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GitTest1 : MonoBehaviour
 {
-    // Start is called before the first frame update
+    Vector3 vec3;
     void Start()
     {
         
